@@ -25,4 +25,5 @@ require_once "control/controller.php";
 
 $controller = new Controller;
 $controller->Page();
+
 ?>
